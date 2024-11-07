@@ -2,7 +2,7 @@
 
 from PyInstaller.utils.hooks import collect_submodules
 
-pathex = ['C:\\Users\\Dale\\Efficiency\\BoostMyTab']
+pathex = [BoostMyTab]
 hookspath = ['pyinstaller_hooks'] 
 
 a = Analysis(
